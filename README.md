@@ -1,7 +1,7 @@
-# Vishnu S — Resume
+w# Vishnu S — Resume
 Aspiring Backend Developer | Java • Node.js • SQL | Exploring AI & Cloud
 
-📄 [View Resume (PDF)](https://github.com/v1shhn/resume/raw/main/index.pdf)
+📄 [View Resume (PDF)](https://github.com/v1shhn/resume/raw/main/resume-vishnu.pdf)
 
 Other Links:
 - [GitHub Profile](https://github.com/v1shhn)
