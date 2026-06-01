@@ -1,9 +1,21 @@
-w# Vishnu S — Resume
-Aspiring Backend Developer | Java • Node.js • SQL | Exploring AI & Cloud
+Vishnu S
 
-📄 [View Resume (PDF)](https://github.com/v1shhn/resume/raw/main/resume-vishnu.pdf)
+Backend-focused Software Developer
 
-Other Links:
-- [GitHub Profile](https://github.com/v1shhn)
-- [LinkedIn](https://linkedin.com/in/v1shhn)
-- [Leetcode](https://leetcode.com/u/v1shn/)
+Java • Spring Boot • SQL • REST APIs
+
+Links
+------
+Resume
+GitHub
+LinkedIn
+
+LeetCode
+Email
+
+Featured Projects
+-----------------
+<soon>
+
+Currently:
+Building backend projects and improving DSA.
